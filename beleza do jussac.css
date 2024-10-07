@@ -1,0 +1,28 @@
+body{
+background-image: url(plano\ de\ fundo\ 1.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+}
+header{
+background-color: rgba(255, 255, 255, 0.555);
+width: 600px;
+height: 300px;
+border-radius: 30px;
+}
+.bordas{
+border-radius: 20px;
+}
+.bordatitu{
+background-color: rgba(0, 0, 0, 0.363);
+width: 500px;
+height: 100px;
+border-radius: 30px;
+}
+.bordatito{
+background-color: rgba(0, 0, 0, 0.356);
+width: 530px;
+height: 80px;
+border-radius: 30px;
+}
