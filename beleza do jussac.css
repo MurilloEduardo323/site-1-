@@ -5,7 +5,7 @@ body{
     padding: 15px;
 }
 header{
-    background-image: url(cabeçalho.jpeg);
+    background-image: url(cabeçaljho.jfif);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -67,11 +67,11 @@ td{
     padding: 12px;
 }
 footer{
-    background-image: url(cabeçalho.jpeg);
+    background-image: url(cabeçaljho.jfif);
     font-size: 12px;
 }
 section{
-    background-image: url(borda\ da\ letra.jpeg);
+    background-image: url(bordaletra.jfif);
     background-repeat: no-repeat;
     background-position: center center;
     height: 5px;
