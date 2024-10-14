@@ -82,3 +82,7 @@ section{
     border-bottom-right-radius: 30px;
     border: 4px solid white;
 }
+.premios{
+    background-image: url(plano/de/fundo/1.jpg);
+    background-attachment: fixed;
+}
